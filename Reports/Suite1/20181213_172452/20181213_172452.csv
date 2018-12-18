@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite1,Chrome 70.0.3538.110,,2018-12-13 17:24:58,2018-12-13 17:25:22,24.489s,PASSED
+,,,,,,
+Test Cases/New Test Case (1),Chrome 70.0.3538.110,,2018-12-13 17:25:00,2018-12-13 17:25:22,21.700s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 70.0.3538.110,,2018-12-13 17:25:00,2018-12-13 17:25:00,0.192s,PASSED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-13 17:25:01,2018-12-13 17:25:07,5.733s,PASSED
+maximizeWindow(),Chrome 70.0.3538.110,,2018-12-13 17:25:07,2018-12-13 17:25:08,1.276s,PASSED
+"navigateToUrl(""https://ckeditor.com/ckeditor-5/demo/"")",Chrome 70.0.3538.110,,2018-12-13 17:25:08,2018-12-13 17:25:22,13.297s,PASSED

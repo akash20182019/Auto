@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression Test,Chrome 70.0.3538.110,,2018-12-13 16:42:33,2018-12-13 16:42:46,12.757s,PASSED
+,,,,,,
+Test Cases/New Test Case (4),Chrome 70.0.3538.110,,2018-12-13 16:42:34,2018-12-13 16:42:45,10.584s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 70.0.3538.110,,2018-12-13 16:42:34,2018-12-13 16:42:34,0.141s,PASSED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-13 16:42:36,2018-12-13 16:42:43,7.384s,PASSED
+maximizeWindow(),Chrome 70.0.3538.110,,2018-12-13 16:42:43,2018-12-13 16:42:44,1.206s,PASSED
+"navigateToUrl(""https://flipkart.com"")",Chrome 70.0.3538.110,,2018-12-13 16:42:44,2018-12-13 16:42:45,0.538s,PASSED

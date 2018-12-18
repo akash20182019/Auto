@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression Test,Chrome 70.0.3538.110,,2018-12-13 15:16:41,2018-12-13 15:17:44,1m - 2.795s,FAILED
+,,,,,,
+Test Cases/CKEditor,Chrome 70.0.3538.110,,2018-12-13 15:16:42,2018-12-13 15:17:43,1m - 1.584s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 70.0.3538.110,,2018-12-13 15:16:42,2018-12-13 15:16:42,0.043s,PASSED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-13 15:16:42,2018-12-13 15:16:47,4.552s,PASSED
+maximizeWindow(),Chrome 70.0.3538.110,,2018-12-13 15:16:47,2018-12-13 15:16:48,1.155s,PASSED
+"navigateToUrl(""https://ckeditor.com/ckeditor-5/"")",Chrome 70.0.3538.110,,2018-12-13 15:16:48,2018-12-13 15:17:07,18.656s,PASSED
+delay(5),Chrome 70.0.3538.110,,2018-12-13 15:17:07,2018-12-13 15:17:12,5.027s,PASSED
+"doubleClick(findTestObject(""Object Repository/NEWCKEDITOR/Page_CKEditor 5 - A set of ready to/h2_The three greatest things y""))",Chrome 70.0.3538.110,,2018-12-13 15:17:12,2018-12-13 15:17:43,31.697s,FAILED

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite1" time="16" tests="1" failures="0" errors="0">
+   <testsuite name="Suite1" tests="1" failures="0" errors="0" time="16" timestamp="2018-12-13 15:28:42" hostname="akash - DESKTOP-R9J1D8T" id="Test Suites/Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\akash\\Katalon Studio\\Diffoperations\\Reports\\Suite1\\20181213_152837"/>
+         <property name="logFiles" value="C:\\Users\\akash\\Katalon Studio\\Diffoperations\\Reports\\Suite1\\20181213_152837\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="akash - DESKTOP-R9J1D8T"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+         <property name="browser" value="Chrome 70.0.3538.110"/>
+         <property name="hostAddress" value="192.168.11.73"/>
+         <property name="sessionId" value="f42d6e1340ad525dc5a9f1208987efbc"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case (1)" classname="Test Cases/New Test Case (1)" status="PASSED">
+         <system-out><![CDATA[2018-12-13 15:28:45 - [TEST_CASE][PASSED] - Test Cases/New Test Case (1): Test Cases/New Test Case (1)
+
+2018-12-13 15:28:45 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2018-12-13 15:28:45 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2018-12-13 15:28:45 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2018-12-13 15:28:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-12-13 15:28:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-13 15:28:47 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-12-13 15:28:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-13 15:28:52 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2018-12-13 15:28:53 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-13 15:28:53 - [TEST_STEP][PASSED] - navigateToUrl("https://ckeditor.com/ckeditor-5/demo/"): Navigate to 'https://ckeditor.com/ckeditor-5/demo/' successfully
+
+2018-12-13 15:28:58 - [MESSAGE][PASSED] - Navigate to 'https://ckeditor.com/ckeditor-5/demo/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-13 15:28:42 - [TEST_SUITE][PASSED] - Suite1: Test Cases/New Test Case (1)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
